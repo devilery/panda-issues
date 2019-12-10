@@ -1,0 +1,35 @@
+
+
+<div class="dropdown-header px-3 py-2 border-bottom">Edited 2 times</div>
+<ul class="lh-condensed text-small" style="overflow-y:auto; max-height:250px">
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDI1NDAwNzE5NA==">
+                    <img src="https://avatars3.githubusercontent.com/u/3806031?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@jsjoeio">
+          <span class="css-truncate-target v-align-middle text-bold">jsjoeio</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-07-24T19:14:10Z" class="no-wrap">Jul 24, 2019</relative-time> (most recent)</span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDI1Mzk1OTY4NA==">
+                    <img src="https://avatars3.githubusercontent.com/u/3806031?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@jsjoeio">
+          <span class="css-truncate-target v-align-middle text-bold">jsjoeio</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-07-24T17:33:59Z" class="no-wrap">Jul 24, 2019</relative-time></span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDI1Mzk1OTY4Mw==">
+                    <img src="https://avatars3.githubusercontent.com/u/3806031?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@jsjoeio">
+          <span class="css-truncate-target v-align-middle text-bold">jsjoeio</span> 
+        <span class="v-align-middle">created <relative-time datetime="2019-07-24T17:33:33Z" class="no-wrap">Jul 24, 2019</relative-time></span>
+
+        </button>
+
+    </li>
+</ul>

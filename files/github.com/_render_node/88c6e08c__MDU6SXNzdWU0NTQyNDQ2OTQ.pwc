@@ -1,0 +1,35 @@
+
+
+<div class="dropdown-header px-3 py-2 border-bottom">Edited 2 times</div>
+<ul class="lh-condensed text-small" style="overflow-y:auto; max-height:250px">
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDIzMzk5NzkzNw==">
+                    <img src="https://avatars0.githubusercontent.com/u/1740816?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@annp89">
+          <span class="css-truncate-target v-align-middle text-bold">annp89</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-06-10T16:06:07Z" class="no-wrap">Jun 10, 2019</relative-time> (most recent)</span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDIzMzk5Njg2MA==">
+                    <img src="https://avatars0.githubusercontent.com/u/1740816?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@annp89">
+          <span class="css-truncate-target v-align-middle text-bold">annp89</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-06-10T16:03:47Z" class="no-wrap">Jun 10, 2019</relative-time></span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDIzMzk5Njg1OQ==">
+                    <img src="https://avatars0.githubusercontent.com/u/1740816?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@annp89">
+          <span class="css-truncate-target v-align-middle text-bold">annp89</span> 
+        <span class="v-align-middle">created <relative-time datetime="2019-06-10T16:03:09Z" class="no-wrap">Jun 10, 2019</relative-time></span>
+
+        </button>
+
+    </li>
+</ul>

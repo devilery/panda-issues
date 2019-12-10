@@ -1,0 +1,45 @@
+
+
+<div class="dropdown-header px-3 py-2 border-bottom">Edited 3 times</div>
+<ul class="lh-condensed text-small" style="overflow-y:auto; max-height:250px">
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDk1NjY3MTUx">
+                    <img src="https://avatars2.githubusercontent.com/u/911413?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@bhargavrpatel">
+          <span class="css-truncate-target v-align-middle text-bold">bhargavrpatel</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-06-11T21:12:00Z" class="no-wrap">Jun 11, 2018</relative-time> (most recent)</span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDk1NjY3MDgy">
+                    <img src="https://avatars2.githubusercontent.com/u/911413?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@bhargavrpatel">
+          <span class="css-truncate-target v-align-middle text-bold">bhargavrpatel</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-06-11T21:11:48Z" class="no-wrap">Jun 11, 2018</relative-time></span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDk1NjY3MDE1">
+                    <img src="https://avatars2.githubusercontent.com/u/911413?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@bhargavrpatel">
+          <span class="css-truncate-target v-align-middle text-bold">bhargavrpatel</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-06-11T21:11:36Z" class="no-wrap">Jun 11, 2018</relative-time></span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDk1NjY3MDE0">
+                    <img src="https://avatars2.githubusercontent.com/u/911413?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@bhargavrpatel">
+          <span class="css-truncate-target v-align-middle text-bold">bhargavrpatel</span> 
+        <span class="v-align-middle">created <relative-time datetime="2018-06-11T21:11:27Z" class="no-wrap">Jun 11, 2018</relative-time></span>
+
+        </button>
+
+    </li>
+</ul>

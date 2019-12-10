@@ -1,0 +1,35 @@
+
+
+<div class="dropdown-header px-3 py-2 border-bottom">Edited 2 times</div>
+<ul class="lh-condensed text-small" style="overflow-y:auto; max-height:250px">
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDEwMjIxMjYwNA==">
+                    <img src="https://avatars0.githubusercontent.com/u/1173057?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@bootstraponline">
+          <span class="css-truncate-target v-align-middle text-bold">bootstraponline</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-06-28T02:55:31Z" class="no-wrap">Jun 28, 2018</relative-time> (most recent)</span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDEwMjIwMjExNw==">
+                    <img src="https://avatars0.githubusercontent.com/u/1173057?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@bootstraponline">
+          <span class="css-truncate-target v-align-middle text-bold">bootstraponline</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-06-28T02:12:51Z" class="no-wrap">Jun 28, 2018</relative-time></span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDEwMjIwMjExNg==">
+                    <img src="https://avatars0.githubusercontent.com/u/1173057?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@bootstraponline">
+          <span class="css-truncate-target v-align-middle text-bold">bootstraponline</span> 
+        <span class="v-align-middle">created <relative-time datetime="2018-06-28T02:12:24Z" class="no-wrap">Jun 28, 2018</relative-time></span>
+
+        </button>
+
+    </li>
+</ul>

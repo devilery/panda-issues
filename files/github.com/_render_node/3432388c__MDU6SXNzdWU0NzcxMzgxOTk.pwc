@@ -1,0 +1,25 @@
+
+
+<div class="dropdown-header px-3 py-2 border-bottom">Edited 1 time</div>
+<ul class="lh-condensed text-small" style="overflow-y:auto; max-height:250px">
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDI1OTUyMDU3OA==">
+                    <img src="https://avatars2.githubusercontent.com/u/2352389?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@Joeper214">
+          <span class="css-truncate-target v-align-middle text-bold">Joeper214</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-08-06T02:32:52Z" class="no-wrap">Aug 6, 2019</relative-time> (most recent)</span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDI1OTUyMDU3Nw==">
+                    <img src="https://avatars2.githubusercontent.com/u/2352389?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@Joeper214">
+          <span class="css-truncate-target v-align-middle text-bold">Joeper214</span> 
+        <span class="v-align-middle">created <relative-time datetime="2019-08-06T02:32:39Z" class="no-wrap">Aug 6, 2019</relative-time></span>
+
+        </button>
+
+    </li>
+</ul>

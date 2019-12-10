@@ -1,0 +1,42 @@
+
+
+<div class="dropdown-header px-3 py-2 border-bottom">Edited 4 times</div>
+<ul class="lh-condensed text-small" style="overflow-y:auto; max-height:250px">
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDk3NTg2MzY4">
+                    <img src="https://avatars0.githubusercontent.com/u/50083?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@abinoda">
+          <span class="css-truncate-target v-align-middle text-bold">abinoda</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-06-15T16:22:38Z" class="no-wrap">Jun 15, 2018</relative-time> (most recent)</span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <div class="css-truncate-target d-block width-fit p-2 text-gray">
+                    <img src="https://avatars0.githubusercontent.com/u/50083?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@abinoda">
+          <span class="css-truncate-target v-align-middle text-bold">abinoda</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-05-20T20:52:18Z" class="no-wrap">May 20, 2018</relative-time></span>
+
+        </div>
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <div class="css-truncate-target d-block width-fit p-2 text-gray">
+                    <img src="https://avatars0.githubusercontent.com/u/50083?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@abinoda">
+          <span class="css-truncate-target v-align-middle text-bold">abinoda</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-05-20T20:50:54Z" class="no-wrap">May 20, 2018</relative-time></span>
+
+        </div>
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <div class="css-truncate-target d-block width-fit p-2 text-gray">
+                    <img src="https://avatars0.githubusercontent.com/u/50083?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@abinoda">
+          <span class="css-truncate-target v-align-middle text-bold">abinoda</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-05-20T20:49:43Z" class="no-wrap">May 20, 2018</relative-time></span>
+
+        </div>
+    </li>
+</ul>

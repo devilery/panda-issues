@@ -1,0 +1,35 @@
+
+
+<div class="dropdown-header px-3 py-2 border-bottom">Edited 2 times</div>
+<ul class="lh-condensed text-small" style="overflow-y:auto; max-height:250px">
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDE2NTY2MDY0NQ==">
+                    <img src="https://avatars2.githubusercontent.com/u/25646493?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@taylor-cedar">
+          <span class="css-truncate-target v-align-middle text-bold">taylor-cedar</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-12-24T05:57:52Z" class="no-wrap">Dec 24, 2018</relative-time> (most recent)</span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDE2NTY2MDQ5NA==">
+                    <img src="https://avatars2.githubusercontent.com/u/25646493?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@taylor-cedar">
+          <span class="css-truncate-target v-align-middle text-bold">taylor-cedar</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-12-24T05:55:59Z" class="no-wrap">Dec 24, 2018</relative-time></span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDE2NTY2MDQ5Mw==">
+                    <img src="https://avatars2.githubusercontent.com/u/25646493?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@taylor-cedar">
+          <span class="css-truncate-target v-align-middle text-bold">taylor-cedar</span> 
+        <span class="v-align-middle">created <relative-time datetime="2018-12-24T05:55:48Z" class="no-wrap">Dec 24, 2018</relative-time></span>
+
+        </button>
+
+    </li>
+</ul>

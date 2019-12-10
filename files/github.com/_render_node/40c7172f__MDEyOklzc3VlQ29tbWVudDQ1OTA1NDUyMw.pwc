@@ -1,0 +1,65 @@
+
+
+<div class="dropdown-header px-3 py-2 border-bottom">Edited 5 times</div>
+<ul class="lh-condensed text-small" style="overflow-y:auto; max-height:250px">
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDE3ODI2NTUzOQ==">
+                    <img src="https://avatars0.githubusercontent.com/u/50083?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@abinoda">
+          <span class="css-truncate-target v-align-middle text-bold">abinoda</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-01-30T18:29:02Z" class="no-wrap">Jan 30, 2019</relative-time> (most recent)</span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDE3ODI2NTMzNQ==">
+                    <img src="https://avatars0.githubusercontent.com/u/50083?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@abinoda">
+          <span class="css-truncate-target v-align-middle text-bold">abinoda</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-01-30T18:28:31Z" class="no-wrap">Jan 30, 2019</relative-time></span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDE3ODI2NTE4OQ==">
+                    <img src="https://avatars0.githubusercontent.com/u/50083?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@abinoda">
+          <span class="css-truncate-target v-align-middle text-bold">abinoda</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-01-30T18:28:06Z" class="no-wrap">Jan 30, 2019</relative-time></span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDE3ODI2NTEwNw==">
+                    <img src="https://avatars0.githubusercontent.com/u/50083?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@abinoda">
+          <span class="css-truncate-target v-align-middle text-bold">abinoda</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-01-30T18:27:53Z" class="no-wrap">Jan 30, 2019</relative-time></span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDE3ODI2NDk4Mg==">
+                    <img src="https://avatars0.githubusercontent.com/u/50083?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@abinoda">
+          <span class="css-truncate-target v-align-middle text-bold">abinoda</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-01-30T18:27:38Z" class="no-wrap">Jan 30, 2019</relative-time></span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDE3ODI2NDk4MQ==">
+                    <img src="https://avatars0.githubusercontent.com/u/50083?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@abinoda">
+          <span class="css-truncate-target v-align-middle text-bold">abinoda</span> 
+        <span class="v-align-middle">created <relative-time datetime="2019-01-30T18:27:23Z" class="no-wrap">Jan 30, 2019</relative-time></span>
+
+        </button>
+
+    </li>
+</ul>

@@ -1,0 +1,25 @@
+
+
+<div class="dropdown-header px-3 py-2 border-bottom">Edited 1 time</div>
+<ul class="lh-condensed text-small" style="overflow-y:auto; max-height:250px">
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDI2MzAyNDE5Ng==">
+                    <img src="https://avatars2.githubusercontent.com/u/2379650?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@sloria">
+          <span class="css-truncate-target v-align-middle text-bold">sloria</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-08-13T14:21:21Z" class="no-wrap">Aug 13, 2019</relative-time> (most recent)</span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDI2MzAyNDE5NQ==">
+                    <img src="https://avatars2.githubusercontent.com/u/2379650?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@sloria">
+          <span class="css-truncate-target v-align-middle text-bold">sloria</span> 
+        <span class="v-align-middle">created <relative-time datetime="2019-08-13T14:20:08Z" class="no-wrap">Aug 13, 2019</relative-time></span>
+
+        </button>
+
+    </li>
+</ul>

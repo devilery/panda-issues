@@ -1,0 +1,14 @@
+
+
+<div class="dropdown-header px-3 py-2 border-bottom">Edited 1 time</div>
+<ul class="lh-condensed text-small" style="overflow-y:auto; max-height:250px">
+    <li class="border-bottom css-truncate">
+
+        <div class="css-truncate-target d-block width-fit p-2 text-gray">
+                    <img src="https://avatars0.githubusercontent.com/u/50083?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@abinoda">
+          <span class="css-truncate-target v-align-middle text-bold">abinoda</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2018-05-12T18:27:10Z" class="no-wrap">May 12, 2018</relative-time> (most recent)</span>
+
+        </div>
+    </li>
+</ul>

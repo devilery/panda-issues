@@ -1,0 +1,24 @@
+
+
+<div class="dropdown-header px-3 py-2 border-bottom">Edited 1 time</div>
+<ul class="lh-condensed text-small" style="overflow-y:auto; max-height:250px">
+    <li class="border-bottom css-truncate">
+
+        <button type="button" class="btn-link dropdown-item p-2" role="menuitem" data-edit-history-url="/user_content_edits/MDE1OlVzZXJDb250ZW50RWRpdDI4MzUzMDI3NQ==">
+                    <img src="https://avatars1.githubusercontent.com/u/19535560?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@ilyaGurevich">
+          <span class="css-truncate-target v-align-middle text-bold">ilyaGurevich</span> 
+        <span class="v-align-middle">edited <relative-time datetime="2019-09-25T21:28:57Z" class="no-wrap">Sep 25, 2019</relative-time> (most recent)</span>
+
+        </button>
+
+    </li>
+    <li class="border-bottom css-truncate">
+
+        <div class="css-truncate-target d-block width-fit p-2 text-gray">
+                    <img src="https://avatars1.githubusercontent.com/u/19535560?v=4" width="20" height="20" class="avatar avatar-small v-align-middle mr-1" alt="@ilyaGurevich">
+          <span class="css-truncate-target v-align-middle text-bold">ilyaGurevich</span> 
+        <span class="v-align-middle">created <relative-time datetime="2019-09-25T21:28:12Z" class="no-wrap">Sep 25, 2019</relative-time></span>
+
+        </div>
+    </li>
+</ul>
